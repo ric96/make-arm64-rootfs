@@ -1,7 +1,7 @@
 #!/bin/bash -e
 
 UBUNTU_ARCH="arm64"
-UBUNTU_RELEASE="15.10"
+UBUNTU_RELEASE="16.04"
 ###IMAGE_FILE="ubuntu-${UBUNTU_RELEASE}-server-cloudimg-${UBUNTU_ARCH}-root.tar.gz"
 IMAGE_FILE="ubuntu-core-${UBUNTU_RELEASE}-core-${UBUNTU_ARCH}.tar.gz"
 
